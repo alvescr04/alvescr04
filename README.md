@@ -20,7 +20,7 @@
 <br>
 Tradutora e Revisora explorando novos caminhos. Buscando novas experiências e novos desafios que me possibilite conectar Tradução com a Programação. 
 <br>
-Apioxanada por Tradução e Linguitica e adquirindo um novo amor por programação. 
+Apaioxonada por Tradução e Linguística e adquirindo um novo amor por programação. 
  
 ## Cursos 
 - Desenvolvedor Front-End pelo SENAI-DF.
